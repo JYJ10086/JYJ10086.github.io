@@ -1,32 +1,43 @@
 body {
-padding-left: 10em;
-padding-right: 10em;
+padding-left: 6em;
+padding-right: 6em;
 font-family:"思源宋体",sans-serif;
-font-weight:bold;
-font-size: 0.8em;
-color: black;
-background-color:#d8da3d;
-      }
+font-weight:normal;
+font-size: 1em;
+color: GhostWhite;
 
+      }
+      body {
+      background-color: #b3220a;
+      }
+      @media screen and (max-width: 960px) { body {
+      background-color: #ce5200;
+      } }
+      @media screen and (max-width: 768px) { body {
+      background-color: #d88a03;
+      } }
+      @media screen and (max-width: 550px) { body {
+      background-color: #d1b100;
+      } }
 p{
-color:gray;
+color:#b0b0b0;
     }
 button{
 width:200px;
 height:80px;
-font-size: 1em;
+font-size: 1.5em;
 font-family:"思源宋体",sans-serif;
 font-weight:bold;
-background-color:skyblue;
+background-color:GhostWhite;
 margin-left:auto;
 margin-right:auto;
 text-align: center;
 }
 
 #jj{
-  background-color:GhostWhite;
+  background-color:black;
 
 }
 #z{
-  color:black;
+  color:GhostWhite;
 }
