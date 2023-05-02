@@ -1,0 +1,32 @@
+body {
+padding-left: 10em;
+padding-right: 10em;
+font-family:"思源宋体",sans-serif;
+font-weight:bold;
+font-size: 0.8em;
+color: black;
+background-color:#d8da3d;
+      }
+
+p{
+color:gray;
+    }
+button{
+width:200px;
+height:80px;
+font-size: 1em;
+font-family:"思源宋体",sans-serif;
+font-weight:bold;
+background-color:skyblue;
+margin-left:auto;
+margin-right:auto;
+text-align: center;
+}
+
+#jj{
+  background-color:GhostWhite;
+
+}
+#z{
+  color:black;
+}
